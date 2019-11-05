@@ -1,0 +1,11 @@
+C:\Users\RMB\source\repos\Parallel_Task\Parallel_Task\bin\Debug\netcoreapp3.1\Parallel_Task.exe
+C:\Users\RMB\source\repos\Parallel_Task\Parallel_Task\bin\Debug\netcoreapp3.1\Parallel_Task.deps.json
+C:\Users\RMB\source\repos\Parallel_Task\Parallel_Task\bin\Debug\netcoreapp3.1\Parallel_Task.runtimeconfig.json
+C:\Users\RMB\source\repos\Parallel_Task\Parallel_Task\bin\Debug\netcoreapp3.1\Parallel_Task.runtimeconfig.dev.json
+C:\Users\RMB\source\repos\Parallel_Task\Parallel_Task\bin\Debug\netcoreapp3.1\Parallel_Task.dll
+C:\Users\RMB\source\repos\Parallel_Task\Parallel_Task\bin\Debug\netcoreapp3.1\Parallel_Task.pdb
+C:\Users\RMB\source\repos\Parallel_Task\Parallel_Task\obj\Debug\netcoreapp3.1\Parallel_Task.csprojAssemblyReference.cache
+C:\Users\RMB\source\repos\Parallel_Task\Parallel_Task\obj\Debug\netcoreapp3.1\Parallel_Task.AssemblyInfoInputs.cache
+C:\Users\RMB\source\repos\Parallel_Task\Parallel_Task\obj\Debug\netcoreapp3.1\Parallel_Task.AssemblyInfo.cs
+C:\Users\RMB\source\repos\Parallel_Task\Parallel_Task\obj\Debug\netcoreapp3.1\Parallel_Task.dll
+C:\Users\RMB\source\repos\Parallel_Task\Parallel_Task\obj\Debug\netcoreapp3.1\Parallel_Task.pdb
